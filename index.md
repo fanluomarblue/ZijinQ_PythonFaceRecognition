@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
 My first milestone was to familiarize myself with Python by creating a tic tac toe game. The game can be played by two players and use user inputs in the form of either the numbers 1 or 2 that I set up in the code. The user can also define the size of the tic tac toe game they wish to play. As of my code, I used numerous for and if loops to set the winning conditions and some while loops with if-else conditions to restart the game after a round is finished.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i.imgur.com/zYKLb6H.jpg)](https://www.youtube.com/watch?v=OdWy3sgWJ5o "First Milestone"){:target="_blank" rel="noopener"}
