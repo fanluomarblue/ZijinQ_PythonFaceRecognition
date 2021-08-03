@@ -6,6 +6,9 @@ I used Raspberry Pi and Python to create a smile recognition program. The progra
 | Zijin Qin | American Fork High School | Computer Science | Incoming Senior
 
 ![Headstone Image](https://i.imgur.com/B47Ej26.png)
+
+# Demo Night
+[![Demo Night](https://i.imgur.com/f4HyKDR.png)](https://www.youtube.com/watch?v=JsmODcvCjvY&pp=sAQA "Demo Night"){:target="_blank" rel="noopener"}
   
 # Second Milestone
 For my second milestone, I set up the parts needed for the Raspberry Pi to run the smile recognition. I connected a LCD screen to the development board for the Raspberry Pi Desktop, which made it possible to control the Pi graphically. I also connected a small camera to the Raspberry Pi. As for the code, it worked reasonably well. I just need to debug some of it. 
